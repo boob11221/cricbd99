@@ -1,0 +1,19 @@
+{
+  "name": "CRICBD99 | Bangladesh Online Casino >430$ + 190FS",
+  "short_name": "CRICBD99",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#1f2937",
+  "background_color": "#1f2937",
+  "display": "standalone"
+}
